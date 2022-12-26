@@ -1,0 +1,31 @@
+.BSStyle{
+    align-items: center;
+}
+
+.Pstyle{
+    font-weight: 800;
+}
+
+.btnlnkTwo {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: darkgray;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid darkgray;
+    border-right: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+    border-left: 1px solid darkgray;
+    border-radius: 12px;
+    font-weight: 900;
+    }
+  
+.btnlnkTwo:hover {
+    background-color: #6699cc;
+}
+
+.word{
+    color: blue;
+    font-weight: 800;
+    text-decoration: none;
+}

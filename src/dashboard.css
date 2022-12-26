@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@600&display=swap'); 
+
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@600&display=swap');
+
+.DBOne{
+    background-color: #6699cc;
+    text-align: center;
+    font-family: 'Unbounded', cursive;
+}
+
+.dbH {
+    color: yellow;
+}
+
+.HDB{
+    color: white;
+}
+/* color hex for similar colors: https://www.colorhexa.com/6699cc */
+.DBTwo{
+    background-color: #8cb3d9;
+}
+
+.DBThree{
+    background-color: #ffffb5
+}

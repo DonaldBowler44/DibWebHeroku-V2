@@ -1,10 +1,10 @@
 Diabetes website project with components featuring:
 
- [x] Basic In-page navigation React Routing
- [x] Button-style counter survey quiz game
- [x] Image Slider
- [x] BMR Calorie calculator based on Harris-Benedict equation
- [x] Heroku Deployment
+ *  [x] Basic In-page navigation React Routing
+ *  [x] Button-style counter survey quiz game
+ *  [x] Image Slider
+ *  [x] BMR Calorie calculator based on Harris-Benedict equation
+ *  [x] Heroku Deployment
  
  https://dibrisk-herokuapp.herokuapp.com/
  
